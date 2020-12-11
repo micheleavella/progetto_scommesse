@@ -1,0 +1,381 @@
+team_h,team_a,gol_h,gol_a,giornata
+Verona,Milan,2,1,1
+Inter,Genoa,2,0,1
+Lazio,Udinese,2,1,1
+Napoli,Bologna,3,0,1
+Torino,Sassuolo,2,0,1
+Sampdoria,Juventus,0,1,1
+Cagliari,Atalanta,2,1,1
+Livorno,Roma,0,2,1
+Parma,Chievo Verona,0,0,1
+Fiorentina,Catania,2,1,1
+Chievo Verona,Napoli,2,4,2
+Roma,Verona,3,0,2
+Bologna,Sampdoria,2,2,2
+Genoa,Fiorentina,2,5,2
+Sassuolo,Livorno,1,4,2
+Juventus,Lazio,4,1,2
+Atalanta,Torino,2,0,2
+Catania,Inter,0,3,2
+Milan,Cagliari,3,1,2
+Udinese,Parma,3,1,2
+Inter,Juventus,1,1,3
+Torino,Milan,2,2,3
+Verona,Sassuolo,2,0,3
+Livorno,Catania,2,0,3
+Sampdoria,Genoa,0,3,3
+Napoli,Atalanta,2,0,3
+Fiorentina,Cagliari,1,1,3
+Lazio,Chievo Verona,3,0,3
+Udinese,Bologna,1,1,3
+Parma,Roma,1,3,3
+Cagliari,Sampdoria,2,2,4
+Genoa,Livorno,0,0,4
+Atalanta,Fiorentina,0,2,4
+Catania,Parma,0,0,4
+Roma,Lazio,2,0,4
+Chievo Verona,Udinese,2,1,4
+Sassuolo,Inter,0,7,4
+Bologna,Torino,1,2,4
+Juventus,Verona,2,1,4
+Milan,Napoli,1,2,4
+Udinese,Genoa,1,0,5
+Chievo Verona,Juventus,1,2,5
+Livorno,Cagliari,1,1,5
+Parma,Atalanta,4,3,5
+Torino,Verona,2,2,5
+Bologna,Milan,3,3,5
+Lazio,Catania,3,1,5
+Napoli,Sassuolo,1,1,5
+Sampdoria,Roma,0,2,5
+Inter,Fiorentina,2,1,5
+Genoa,Napoli,0,2,6
+Torino,Juventus,0,1,6
+Cagliari,Inter,1,1,6
+Verona,Livorno,2,1,6
+Roma,Bologna,5,0,6
+Milan,Sampdoria,1,0,6
+Atalanta,Udinese,2,0,6
+Catania,Chievo Verona,2,0,6
+Sassuolo,Lazio,2,2,6
+Fiorentina,Parma,2,2,6
+Chievo Verona,Atalanta,0,1,7
+Parma,Sassuolo,3,1,7
+Catania,Genoa,1,1,7
+Sampdoria,Torino,2,2,7
+Juventus,Milan,3,2,7
+Inter,Roma,0,3,7
+Bologna,Verona,1,4,7
+Napoli,Livorno,4,0,7
+Udinese,Cagliari,2,0,7
+Lazio,Fiorentina,0,0,7
+Roma,Napoli,2,0,8
+Milan,Udinese,1,0,8
+Fiorentina,Juventus,4,2,8
+Verona,Parma,3,2,8
+Sassuolo,Bologna,2,1,8
+Cagliari,Catania,2,1,8
+Atalanta,Lazio,2,1,8
+Genoa,Chievo Verona,2,1,8
+Livorno,Sampdoria,1,2,8
+Torino,Inter,3,3,8
+Sampdoria,Atalanta,1,0,9
+Napoli,Torino,2,0,9
+Catania,Sassuolo,0,0,9
+Juventus,Genoa,2,0,9
+Udinese,Roma,0,1,9
+Inter,Verona,4,2,9
+Bologna,Livorno,1,0,9
+Chievo Verona,Fiorentina,1,2,9
+Parma,Milan,3,2,9
+Lazio,Cagliari,2,0,9
+Atalanta,Inter,1,1,10
+Fiorentina,Napoli,1,2,10
+Verona,Sampdoria,2,0,10
+Livorno,Torino,3,3,10
+Sassuolo,Udinese,1,2,10
+Cagliari,Bologna,0,3,10
+Genoa,Parma,1,0,10
+Juventus,Catania,4,0,10
+Milan,Lazio,1,1,10
+Roma,Chievo Verona,1,0,10
+Parma,Juventus,0,1,11
+Napoli,Catania,2,1,11
+Verona,Cagliari,2,1,11
+Sampdoria,Sassuolo,3,4,11
+Torino,Roma,1,1,11
+Milan,Fiorentina,0,2,11
+Livorno,Atalanta,1,0,11
+Lazio,Genoa,0,2,11
+Udinese,Inter,0,3,11
+Bologna,Chievo Verona,0,0,11
+Catania,Udinese,1,0,12
+Genoa,Verona,2,0,12
+Cagliari,Torino,2,1,12
+Parma,Lazio,1,1,12
+Fiorentina,Sampdoria,2,1,12
+Inter,Livorno,2,0,12
+Atalanta,Bologna,2,1,12
+Chievo Verona,Milan,0,0,12
+Roma,Sassuolo,1,1,12
+Juventus,Napoli,3,0,12
+Verona,Chievo Verona,0,1,13
+Napoli,Parma,0,1,13
+Sampdoria,Lazio,1,1,13
+Torino,Catania,4,1,13
+Bologna,Inter,1,1,13
+Milan,Genoa,1,1,13
+Livorno,Juventus,0,2,13
+Sassuolo,Atalanta,2,0,13
+Udinese,Fiorentina,1,0,13
+Roma,Cagliari,0,0,13
+Parma,Bologna,1,1,14
+Catania,Milan,1,3,14
+Cagliari,Sassuolo,2,2,14
+Inter,Sampdoria,1,1,14
+Fiorentina,Verona,4,3,14
+Genoa,Torino,1,1,14
+Atalanta,Roma,1,1,14
+Chievo Verona,Livorno,3,0,14
+Juventus,Udinese,1,0,14
+Lazio,Napoli,2,4,14
+Bologna,Juventus,0,2,15
+Napoli,Udinese,3,3,15
+Cagliari,Genoa,2,1,15
+Sampdoria,Catania,2,0,15
+Torino,Lazio,1,0,15
+Livorno,Milan,2,2,15
+Roma,Fiorentina,2,1,15
+Verona,Atalanta,2,1,15
+Sassuolo,Chievo Verona,0,1,15
+Inter,Parma,3,3,15
+Catania,Verona,0,0,16
+Fiorentina,Bologna,3,0,16
+Lazio,Livorno,2,0,16
+Udinese,Torino,0,2,16
+Napoli,Inter,4,2,16
+Chievo Verona,Sampdoria,0,1,16
+Genoa,Atalanta,1,1,16
+Parma,Cagliari,0,0,16
+Juventus,Sassuolo,4,0,16
+Milan,Roma,2,2,16
+Livorno,Udinese,1,2,17
+Bologna,Genoa,1,0,17
+Verona,Lazio,4,1,17
+Sampdoria,Parma,1,1,17
+Torino,Chievo Verona,4,1,17
+Cagliari,Napoli,1,1,17
+Atalanta,Juventus,1,4,17
+Roma,Catania,4,0,17
+Sassuolo,Fiorentina,0,1,17
+Inter,Milan,1,0,17
+Chievo Verona,Cagliari,0,0,18
+Juventus,Roma,3,0,18
+Catania,Bologna,2,0,18
+Milan,Atalanta,3,0,18
+Udinese,Verona,1,3,18
+Fiorentina,Livorno,1,0,18
+Napoli,Sampdoria,2,0,18
+Genoa,Sassuolo,2,0,18
+Parma,Torino,3,1,18
+Lazio,Inter,1,0,18
+Livorno,Parma,0,3,19
+Torino,Fiorentina,0,0,19
+Cagliari,Juventus,1,4,19
+Roma,Genoa,4,0,19
+Sampdoria,Udinese,3,0,19
+Bologna,Lazio,0,0,19
+Atalanta,Catania,2,1,19
+Verona,Napoli,0,3,19
+Sassuolo,Milan,4,3,19
+Inter,Chievo Verona,1,1,19
+Roma,Livorno,3,0,20
+Udinese,Lazio,2,3,20
+Catania,Fiorentina,0,3,20
+Bologna,Napoli,2,2,20
+Sassuolo,Torino,0,2,20
+Juventus,Sampdoria,4,2,20
+Atalanta,Cagliari,1,0,20
+Genoa,Inter,1,0,20
+Chievo Verona,Parma,1,2,20
+Milan,Verona,1,0,20
+Napoli,Chievo Verona,1,1,21
+Verona,Roma,1,3,21
+Sampdoria,Bologna,1,1,21
+Cagliari,Milan,1,2,21
+Parma,Udinese,1,0,21
+Lazio,Juventus,1,1,21
+Torino,Atalanta,1,0,21
+Inter,Catania,0,0,21
+Livorno,Sassuolo,3,1,21
+Fiorentina,Genoa,3,3,21
+Cagliari,Fiorentina,1,0,22
+Milan,Torino,1,1,22
+Chievo Verona,Lazio,0,2,22
+Atalanta,Napoli,3,0,22
+Genoa,Sampdoria,0,1,22
+Bologna,Udinese,0,2,22
+Sassuolo,Verona,1,2,22
+Catania,Livorno,3,3,22
+Juventus,Inter,3,1,22
+Roma,Parma,4,2,22
+Fiorentina,Atalanta,2,0,23
+Napoli,Milan,3,1,23
+Sampdoria,Cagliari,1,0,23
+Livorno,Genoa,0,1,23
+Lazio,Roma,0,0,23
+Udinese,Chievo Verona,3,0,23
+Torino,Bologna,1,2,23
+Parma,Catania,0,0,23
+Verona,Juventus,2,2,23
+Inter,Sassuolo,1,0,23
+Milan,Bologna,1,0,24
+Catania,Lazio,3,1,24
+Cagliari,Livorno,1,2,24
+Atalanta,Parma,0,4,24
+Roma,Sampdoria,3,0,24
+Fiorentina,Inter,1,2,24
+Juventus,Chievo Verona,3,1,24
+Sassuolo,Napoli,0,2,24
+Genoa,Udinese,3,3,24
+Verona,Torino,1,3,24
+Bologna,Roma,0,1,25
+Udinese,Atalanta,1,1,25
+Chievo Verona,Catania,2,0,25
+Juventus,Torino,1,0,25
+Parma,Fiorentina,2,2,25
+Livorno,Verona,2,3,25
+Inter,Cagliari,1,1,25
+Sampdoria,Milan,0,2,25
+Lazio,Sassuolo,3,2,25
+Napoli,Genoa,1,1,25
+Roma,Inter,0,0,26
+Verona,Bologna,0,0,26
+Atalanta,Chievo Verona,2,1,26
+Torino,Sampdoria,0,2,26
+Milan,Juventus,0,2,26
+Cagliari,Udinese,3,0,26
+Genoa,Catania,2,0,26
+Sassuolo,Parma,0,1,26
+Livorno,Napoli,1,1,26
+Fiorentina,Lazio,0,1,26
+Udinese,Milan,1,0,27
+Juventus,Fiorentina,1,0,27
+Chievo Verona,Genoa,2,1,27
+Sampdoria,Livorno,4,2,27
+Inter,Torino,1,0,27
+Catania,Cagliari,1,1,27
+Lazio,Atalanta,0,1,27
+Parma,Verona,2,0,27
+Bologna,Sassuolo,0,0,27
+Napoli,Roma,1,0,27
+Verona,Inter,0,2,28
+Livorno,Bologna,2,1,28
+Cagliari,Lazio,0,2,28
+Fiorentina,Chievo Verona,3,1,28
+Torino,Napoli,0,1,28
+Atalanta,Sampdoria,3,0,28
+Sassuolo,Catania,3,1,28
+Milan,Parma,2,4,28
+Genoa,Juventus,0,1,28
+Roma,Udinese,3,2,28
+Torino,Livorno,3,1,29
+Parma,Genoa,1,1,29
+Bologna,Cagliari,1,0,29
+Udinese,Sassuolo,1,0,29
+Catania,Juventus,0,1,29
+Chievo Verona,Roma,0,2,29
+Inter,Atalanta,1,2,29
+Sampdoria,Verona,5,0,29
+Napoli,Fiorentina,0,1,29
+Lazio,Milan,1,1,29
+Roma,Torino,2,1,30
+Cagliari,Verona,1,0,30
+Atalanta,Livorno,2,0,30
+Catania,Napoli,2,4,30
+Sassuolo,Sampdoria,1,2,30
+Chievo Verona,Bologna,3,0,30
+Genoa,Lazio,2,0,30
+Fiorentina,Milan,0,2,30
+Juventus,Parma,2,1,30
+Inter,Udinese,0,0,30
+Bologna,Atalanta,0,2,31
+Sassuolo,Roma,0,2,31
+Sampdoria,Fiorentina,0,0,31
+Lazio,Parma,3,2,31
+Udinese,Catania,1,0,31
+Milan,Chievo Verona,3,0,31
+Torino,Cagliari,2,1,31
+Verona,Genoa,3,0,31
+Napoli,Juventus,2,0,31
+Livorno,Inter,2,2,31
+Chievo Verona,Verona,0,1,32
+Lazio,Sampdoria,2,0,32
+Atalanta,Sassuolo,0,2,32
+Fiorentina,Udinese,2,1,32
+Juventus,Livorno,2,0,32
+Inter,Bologna,2,2,32
+Cagliari,Roma,1,3,32
+Catania,Torino,1,2,32
+Parma,Napoli,1,0,32
+Genoa,Milan,1,2,32
+Sassuolo,Cagliari,1,1,33
+Bologna,Parma,1,1,33
+Verona,Fiorentina,3,5,33
+Sampdoria,Inter,0,4,33
+Milan,Catania,1,0,33
+Roma,Atalanta,3,1,33
+Livorno,Chievo Verona,2,4,33
+Torino,Genoa,2,1,33
+Napoli,Lazio,4,2,33
+Udinese,Juventus,0,2,33
+Genoa,Cagliari,1,2,34
+Parma,Inter,0,2,34
+Udinese,Napoli,1,1,34
+Chievo Verona,Sassuolo,0,1,34
+Juventus,Bologna,1,0,34
+Atalanta,Verona,1,2,34
+Milan,Livorno,3,0,34
+Catania,Sampdoria,2,1,34
+Lazio,Torino,3,3,34
+Fiorentina,Roma,0,1,34
+Roma,Milan,2,0,35
+Inter,Napoli,0,0,35
+Sampdoria,Chievo Verona,2,1,35
+Cagliari,Parma,1,0,35
+Atalanta,Genoa,1,1,35
+Bologna,Fiorentina,0,3,35
+Verona,Catania,4,0,35
+Livorno,Lazio,0,2,35
+Torino,Udinese,2,0,35
+Sassuolo,Juventus,1,3,35
+Genoa,Bologna,0,0,36
+Catania,Roma,4,1,36
+Chievo Verona,Torino,0,1,36
+Lazio,Verona,3,3,36
+Fiorentina,Sassuolo,3,4,36
+Udinese,Livorno,5,3,36
+Parma,Sampdoria,2,0,36
+Milan,Inter,1,0,36
+Juventus,Atalanta,1,0,36
+Napoli,Cagliari,3,0,36
+Verona,Udinese,2,2,37
+Atalanta,Milan,2,1,37
+Cagliari,Chievo Verona,0,1,37
+Sassuolo,Genoa,4,2,37
+Torino,Parma,1,1,37
+Inter,Lazio,4,1,37
+Bologna,Catania,1,2,37
+Livorno,Fiorentina,0,1,37
+Sampdoria,Napoli,2,5,37
+Roma,Juventus,0,1,37
+Udinese,Sampdoria,3,3,38
+Juventus,Cagliari,3,0,38
+Lazio,Bologna,1,0,38
+Chievo Verona,Inter,2,1,38
+Milan,Sassuolo,2,1,38
+Catania,Atalanta,2,1,38
+Genoa,Roma,1,0,38
+Napoli,Verona,5,1,38
+Parma,Livorno,2,0,38
+Fiorentina,Torino,2,2,38
